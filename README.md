@@ -1,2 +1,1 @@
-# code-of-conduct
-Code of Conduct for the ShopDev Alliance community.
+# ShopDev Alliance Code of Conduct
